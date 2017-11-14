@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content ="width=device-width">
+  <title>JS bin</title>
+  </head>
+  <main role="main">
+    <h1><span class="js-click-counter"> 0</span> clicks</h1>
+    <button class="js-click">Click Me</button>
+    <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+    <script src="index.js"></script>
+  </main>
+  </html>
